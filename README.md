@@ -45,7 +45,6 @@ Estou sempre disposto a encarar novos desafios, sair da zona de conforto e expan
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davi-src&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davi-src&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
@@ -68,4 +67,4 @@ Estou sempre disposto a encarar novos desafios, sair da zona de conforto e expan
 ## 📫 Vamos conversar?
 
 Estou aberto a novas conexões, projetos e oportunidades. Fique à vontade para entrar em contato!
-![LinkedIn](https://www.linkedin.com/in/davi-luiz/)
+[LinkedIn: in/davi-luiz](https://www.linkedin.com/in/davi-luiz/)
