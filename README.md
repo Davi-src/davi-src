@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davi-luiz&label=Visualizações&color=38BDF8&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Davi-src&label=Visualizações&color=38BDF8&style=flat" alt="visitor badge"/>
 </p>
 
 Desenvolvedor de Software formado em Ciência da Computação, com mais de **2 anos de experiência** atuando em projetos pessoais e como freelancer no desenvolvimento web front-end.
@@ -19,7 +19,7 @@ Estou sempre disposto a encarar novos desafios, sair da zona de conforto e expan
 ## 🚀 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,redux,tailwind,sqlite,git,github,vscode,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,figma,photoshop" />
 </p>
 
 **Metodologias & Conceitos**
@@ -68,3 +68,4 @@ Estou sempre disposto a encarar novos desafios, sair da zona de conforto e expan
 ## 📫 Vamos conversar?
 
 Estou aberto a novas conexões, projetos e oportunidades. Fique à vontade para entrar em contato!
+![LinkedIn](https://www.linkedin.com/in/davi-luiz/)
