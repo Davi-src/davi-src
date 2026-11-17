@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;JavaScript+%7C+TypeScript+%7C+React+%7C+Vue" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Davi-src&label=Visualizações&color=38BDF8&style=flat" alt="visitor badge"/>
-</p>
 
 Desenvolvedor de Software formado em Ciência da Computação, com mais de **2 anos de experiência** atuando em projetos pessoais e como freelancer no desenvolvimento web front-end.
 
