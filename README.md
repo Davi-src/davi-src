@@ -57,7 +57,7 @@ Estou sempre disposto a encarar novos desafios, sair da zona de conforto e expan
 ## 💡 Sobre minha trajetória
 
 - 🎓 Formado em Ciência da Computação
-- 💻 Mais de 2 anos de experiência em projetos freelancer
+- 💻 Experiência em projetos freelancer
 - 🎯 Foco em desenvolvimento front-end, unindo código e design
 - 📚 Em constante aprimoramento técnico, sempre buscando novas tecnologias e metodologias
 - 🌱 Estudando inglês para ampliar oportunidades e referências internacionais
